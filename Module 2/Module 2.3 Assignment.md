@@ -1,5 +1,4 @@
-Irwan K. Phan
-
+Irwan Phan
 # Module 2.3 Assignment
 
 In this lesson, you learned more about how branches are used in the GitHub workflow. To complete this assignment, you’ll use the command line to create a new branch and change this file in your local repository by following the instructions below:
